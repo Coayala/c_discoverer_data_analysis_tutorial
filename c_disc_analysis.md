@@ -42,8 +42,8 @@ This repository can be clone to quickly download the R MarkDown script
 
     git clone https://github.com/Coayala/c_discoverer_data_analysis_tutorial.git
 
-It is good practice to create an individual `R project` for each dataset
-that is going to be analyzed
+It is good practice to create an individual `R project` for each data
+set that is going to be analyzed
 
 ## 2.1 Load libraries
 
