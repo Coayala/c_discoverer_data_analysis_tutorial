@@ -1,4 +1,4 @@
-Sample Identifier,soil,treatment,time
+SampleID,soil,treatment,time
 S1,A,Control,T0
 S2,A,Control,T0
 S3,A,Control,T0
